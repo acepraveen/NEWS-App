@@ -3,6 +3,15 @@
 
 ![newsApp](https://github.com/acepraveen/React-Native-NEWS-App/assets/53901682/359fe973-b39e-4672-8618-8bcd432dd28b)
 
-## Introducing our React Native news app: Stay updated with concise, 60-word summaries of global events. Enjoy live news updates worldwide, effortlessly scroll through current news, and switch between categories in the home tab. Access top headlines, listen to news aloud, copy and share content, and delve deeper into stories with the full story mode.
+## Summary:
+The React Native News App delivers quick and comprehensive news updates, allowing users to stay informed about global changes in just 60 words. With live news updates, intuitive navigation, accessibility features, and full story mode, users can easily access and explore news articles from various categories, ensuring they are well-informed at all times.
+
+- React Native News App: A mobile application designed to provide quick news updates worldwide, keeping users informed about global changes in just 60 words.
+- Live News Updates: Users can access live news updates from around the world, ensuring they stay up-to-date with current events.
+- Easy Navigation: The app features intuitive navigation, allowing users to scroll vertically to switch between news articles effortlessly.
+- News Categories: Users can explore news articles from different categories and view top headlines on the home screen.
+- Accessibility Features: The app offers accessibility features such as reading news out loud and the option to copy and share news content directly.
+- Full Story Mode: Users can switch to full story mode to read news articles in detail, providing a comprehensive understanding of each topic.
+
 
 
